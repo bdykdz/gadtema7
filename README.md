@@ -1,6 +1,6 @@
-# flutter_application_1
+# EmagCloneOS
 
-A new Flutter project.
+Emag clone - sign up part
 
 ## Getting Started
 
