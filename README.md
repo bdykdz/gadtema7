@@ -1,8 +1,12 @@
 # EmagCloneOS
 
-Emag clone - sign up part
+Emag clone - sign up part - pentru ca toti avem placerea sa folosim emag almost daily
+![giphy](https://github.com/bdykdz/gadtema7/assets/129845958/4fc37370-46c4-4aea-be65-b7154bcb95fb)
+
+
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
