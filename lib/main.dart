@@ -42,9 +42,6 @@ class MyApp extends StatelessWidget {
       store: store,
       child: MaterialApp(
         title: 'Flutter Demo',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
         routes: <String, WidgetBuilder>{
           '/': (BuildContext context) {
             return UserContainer(
